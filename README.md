@@ -1,4 +1,4 @@
-# VeriYapıları Ve Algoritmalar Dersi Proje Ödevi
+# Veri Yapıları Ve Algoritmalar Dersi Proje Ödevi
 1.	Bağlantılı liste ve AVL ağacı kullanarak (AVL ağacı bağlantılı liste mantığında programlanacaktır.) iki soyut veri yapısı tanımlayınız ve programlarını yapınız? Listenin ve AVL ağacının her bir düğümünde öğrencinin numarası, adı, soyadı ve bölümü bilgileri tutulacaktır.  Ağaçta da indeksleme öğrenci numarasına göre yapılacaktır. 
 
 2.	Tasarlamış olduğunuz liste kullanarak Bilgisayar Ağları dersinin sınıf listesi oluşturulacaktır ve ağaçta ise Bilgisayar Mimarisi dersinin sınıf listesi tutulacaktır. Yazacağınız program liste ve AVL ağaç temel işlemlerini içerecektir ve ek olarak aşağıda istenen fonksiyonlar olacaktır. Ana programda temel işlemleri içeren ve aşağıdaki istenenlere ulaşmak için kullanılabilecek bir menü oluşturunuz? 
